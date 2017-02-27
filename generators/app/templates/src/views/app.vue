@@ -11,6 +11,7 @@
 
 <script>
 
+import Api from '../api/index'
 import MyCom from '../components/MyCom.vue'
 import eventBus from '../components/event-bus'
 
